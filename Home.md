@@ -1,2 +1,2 @@
 This is my first Obsidian note!
-Notes
+Notes to be made:
