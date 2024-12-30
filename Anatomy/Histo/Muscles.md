@@ -1,6 +1,8 @@
-Smooth:
-- ![[PXL_20241220_065053086.jpg]]
-Cardiac:
-- ![[PXL_20241220_064635443.jpg]]
 Skeletal:
-- ![[PXL_20241220_065350140.jpg]]
+- ![[Pasted image 20241230181234.jpg]]
+
+Smooth:
+- ![[Pasted image 20241230181910.jpg]]
+
+Cardiac:
+- ![[Pasted image 20241230182020.jpg]]
