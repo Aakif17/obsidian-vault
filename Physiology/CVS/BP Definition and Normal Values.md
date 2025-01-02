@@ -7,6 +7,7 @@ Hypertension: 140 mm Hg or above
 ### Significance
 - Systolic pressure directly depends mainly on **cardiac output**
 - It also depends on *compliance of arteries*
+---
 
 ## Diastolic
 ### Normal Value
