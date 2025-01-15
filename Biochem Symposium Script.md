@@ -1,5 +1,3 @@
-Script for Biochemistry Symposium Presentation: Mechanisms of Enzyme Action
-
 
 ---
 
