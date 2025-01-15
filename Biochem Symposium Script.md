@@ -1,7 +1,7 @@
 
 ---
 
-Introduction
+## Introduction
 
 Good morning everyone,
 Today, we’re diving into the fascinating world of enzyme mechanisms. Enzymes are remarkable biomolecules that catalyze reactions with incredible efficiency, often under mild conditions. Understanding how they work provides insights into biochemistry, medicine, and biotechnology. Let’s explore how enzymes lower activation energy and utilize different catalytic strategies.
@@ -9,7 +9,7 @@ Today, we’re diving into the fascinating world of enzyme mechanisms. Enzymes a
 
 ---
 
-Lowering Activation Energy
+## Lowering Activation Energy
 
 Enzymes accelerate reactions by lowering the activation energy barrier, making it easier for reactants to reach the transition state. Think of it as reducing the height of a hill you need to climb.
 
@@ -18,7 +18,7 @@ Hydrolysis of sucrose by sucrase. Without the enzyme, this reaction is slow and 
 
 ---
 
-Acid-Base Catalysis
+## Acid-Base Catalysis
 
 In acid-base catalysis, enzymes donate or accept protons to stabilize intermediates. This mechanism is key in many biochemical pathways.
 
@@ -29,7 +29,7 @@ Pepsin in protein digestion, uses acid-base catalysis to hydrolyze peptide bonds
 
 ---
 
-Substrate Strain
+## Substrate Strain
 
 Enzymes can physically strain the substrate, forcing it into a conformation that resembles the transition state. This weakens bonds and makes the reaction proceed faster.
 
@@ -37,7 +37,7 @@ Lysozyme, an enzyme in saliva and tears. It stretches polysaccharide substrates 
 
 ---
 
-Covalent Catalysis
+## Covalent Catalysis
 
 In covalent catalysis, the enzyme forms a temporary covalent bond with the substrate, creating an intermediate that is more reactive.
 
@@ -46,6 +46,6 @@ Chymotrypsin, a digestive enzyme. It forms a covalent acyl-enzyme intermediate w
 
 ---
 
-Conclusion
+## Conclusion
 
 In conclusion, enzymes employ multiple strategies—lowering activation energy, acid-base catalysis, substrate strain, and covalent catalysis—to perform their functions with remarkable efficiency. Understanding these mechanisms not only deepens our appreciation of biochemistry but also opens doors to new applications in medicine and technology. Thank you for your attention, and I’m happy to answer any questions!
