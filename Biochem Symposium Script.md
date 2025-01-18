@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Good morning everyone,
+Good afternoon everyone,
 Today, we’re diving into the fascinating world of enzyme mechanisms. Enzymes are remarkable biomolecules that catalyze reactions with incredible efficiency, often under mild conditions. Understanding how they work provides insights into biochemistry, medicine, and biotechnology. Let’s explore how enzymes lower activation energy and utilize different catalytic strategies.
 
 
