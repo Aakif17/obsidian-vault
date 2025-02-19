@@ -57,6 +57,13 @@ Internally, it corresponds to the interatrial septum, where the fossa ovalis (a 
 
 ---
 
+## Crux Cordis
+
+The _crux cordis_ is a key anatomical landmark, at the junction of the 3 sulci.
+The AV node is present anterior to this landmark.
+
+---
+
 ## Conclusion
 
 These grooves house essential blood vessels that supply and drain blood from the heart.
