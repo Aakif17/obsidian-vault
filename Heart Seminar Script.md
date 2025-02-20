@@ -13,7 +13,17 @@ Left Circumflex Artery (LCx) – branches from the left coronary artery and supp
 Coronary Sinus – a large vein that collects deoxygenated blood from the heart and drains into the right atrium.
 
 ---
+## Interatrial Groove
 
+A shallow groove between the right and left atria.
+
+Less prominent compared to the other grooves.
+
+Marks the separation of the atria externally.
+
+Internally, it corresponds to the interatrial septum, where the fossa ovalis (a remnant of fetal circulation) is located.
+
+---
 ## Anterior Interventricular Sulcus
 
 Located on the front (anterior) surface of the heart.
@@ -42,18 +52,6 @@ Contains:
 Posterior Interventricular Artery (Posterior Descending Artery – PDA) – supplies the posterior part of the ventricles and septum.
 
 Middle Cardiac Vein – runs alongside the artery and drains into the coronary sinus.
-
----
-
-## Interatrial Groove
-
-A shallow groove between the right and left atria.
-
-Less prominent compared to the other grooves.
-
-Marks the separation of the atria externally.
-
-Internally, it corresponds to the interatrial septum, where the fossa ovalis (a remnant of fetal circulation) is located.
 
 ---
 
