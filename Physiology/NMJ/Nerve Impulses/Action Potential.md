@@ -1,4 +1,8 @@
-#NeedsReview
+---
+tags:
+  - NeedsReview
+---
+
 ### Definition
 Temporary change in membrane potential of about 100 mV, conducted in an all-or-none fashion.
 

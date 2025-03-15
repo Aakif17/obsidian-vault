@@ -1,5 +1,5 @@
 ```dataview
 TABLE file.name, tags
-FROM "obsidian-vault/Physiology/NMJ/Nerve Impulses"
+FROM ""
 WHERE contains(tags, "NeedsReview")
 ```
