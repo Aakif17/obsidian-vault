@@ -1,17 +1,32 @@
-# 📚 Study Log - {{date}}
+# 📅 Study Log - {{date}}
 
-## 📌 Study Sessions
+## 📌 Study Sessions (Pomodoro Plan)  
+| Time Slot        | Subject     | Topic Studied | Notes |
+|-----------------|------------|--------------|-------|
+| 5:00 - 5:25 PM  | Anatomy     | [[Brachial Plexus]] | Need better visualization |
+| 5:30 - 5:55 PM  | Physiology  | [[Cardiac Cycle]] | Strong concept |
+| 6:00 - 6:25 PM  | Biochemistry | [[Glycolysis]] | Confused about enzyme regulation |
+| 6:40 - 7:05 PM  | MCQs & Recall | [[High-Yield Topics]] | Anki & self-testing |
 
-| Time  | Subject    | Topic/Task | Notes |
-|-------|-----------|------------|-------|
-| 5:00 PM - 5:25 PM | Anatomy    | Upper Limb Muscles | Need revision |
-| 5:30 PM - 5:55 PM | Physiology | Cardiac Cycle MCQs | Missed 3 questions |
-| 6:00 PM - 6:25 PM | Biochemistry | Glycolysis | Confused about regulation |
+## 🔄 **Anki Flashcard Review**
+✅ **Decks Studied:**  
+- [x] **Anatomy:** (20 cards)  
+- [x] **Physiology:** (30 cards)  
+- [x] **Biochemistry:** (25 cards)  
 
-## 🏆 Key Takeaways  
-- [ ] Revise Upper Limb Muscles tomorrow
-- [ ] Re-attempt missed MCQs
-- [ ] Watch a video on Glycolysis regulation
+## 📌 **Topics to Review**
+- [ ] [[Glycolysis]] #NeedsReview
+- [ ] [[Spinal Tracts]] #NeedsReview
+- [ ] [[Neurotransmitters]] #HighYield
 
-## 📊 Productivity Score
-(Rate focus: ⭐⭐⭐⭐☆)
+## 🔗 **Anki Flashcards Created Today**
+- [[Brachial Plexus]] (3 cards) #Anki
+- [[Cardiac Cycle]] (5 cards) #Anki
+- [[Glycolysis]] (4 cards) #Anki
+
+## 📊 **Self-Assessment**
+**Focus Level:** ⭐⭐⭐⭐☆  
+**Difficult Topics:** Glycolysis, Cranial Nerves  
+**Next Day's Plan:**  
+- [ ] Revise [[Cranial Nerves]]  
+- [ ] Solve 5 MCQs on [[Renal Physiology]]  
