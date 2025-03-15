@@ -1,3 +1,4 @@
+#NeedsReview
 ### Definition
 Temporary change in membrane potential of about 100 mV, conducted in an all-or-none fashion.
 
@@ -13,5 +14,3 @@ Lasts for 1 ms, during which membrane potential rises from -70 mV to +35 mV, and
 - [[Depolarization]]
 - [[Repolarization]]
 - [[After-Hyperpolarization]]
-
-#NeedsReview

@@ -1,6 +1,5 @@
 ```dataview
 TABLE file.name, tags
-FROM [[]]
-WHERE contains(tags, "NeedsReview") = true
+FROM "obsidian-vault/Physiology/NMJ/Nerve Impulses"
+WHERE contains(tags, "NeedsReview")
 ```
-
