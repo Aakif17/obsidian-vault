@@ -1,5 +1,6 @@
 ```dataview
 TABLE file.name, tags
-FROM "obsidian-vault"
-WHERE contains(tags, "NeedsReview")
+FROM [[]]
+WHERE contains(tags, "NeedsReview") = true
 ```
+
