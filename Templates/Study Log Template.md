@@ -10,9 +10,9 @@
 
 ## 🔄 **Anki Flashcard Review**
 ✅ **Decks Studied:**  
-- [x] **Anatomy:** (20 cards)  
-- [x] **Physiology:** (30 cards)  
-- [x] **Biochemistry:** (25 cards)  
+- [ ] **Anatomy:** (20 cards)  
+- [ ] **Physiology:** (30 cards)  
+- [ ] **Biochemistry:** (25 cards)  
 
 ## 📌 **Topics to Review**
 - [ ] [[Glycolysis]] #NeedsReview
